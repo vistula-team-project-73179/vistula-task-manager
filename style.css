@@ -1,0 +1,13 @@
+body { font-family: system-ui, sans-serif; background: #f4f5f7; margin: 0; color: #222; }
+main { max-width: 640px; margin: 2rem auto; padding: 0 1rem; }
+form { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 1rem; }
+form input { flex: 1 1 180px; padding: .5rem; }
+button { padding: .4rem .8rem; cursor: pointer; }
+.task-item { background: #fff; border-radius: 6px; padding: .75rem 1rem; margin-bottom: .5rem; box-shadow: 0 1px 2px rgba(0,0,0,.1); }
+.task-item.done .task-title { text-decoration: line-through; color: #888; }
+.task-title { font-weight: 600; display: block; }
+.task-description { display: block; color: #555; margin: .25rem 0; }
+.task-status { font-size: .85rem; color: #666; display: block; margin-bottom: .4rem; }
+#status-message { min-height: 1.2em; }
+#status-message.error { color: #b00020; }
+#status-message.ok { color: #1b7a2b; }
