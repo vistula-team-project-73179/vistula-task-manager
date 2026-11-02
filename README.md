@@ -12,4 +12,5 @@ Simple Task Manager (HTML, CSS, JavaScript) using the Supabase REST API (table `
 - Partner's Pull Request merged into my repository: https://github.com/vistula-team-project-73179/vistula-task-manager/pull/1
 
 Contribution page: https://vistula-team-project-73179.github.io/vistula-task-manager/contribution.html
+
 Contribution JSON: https://vistula-team-project-73179.github.io/vistula-task-manager/contribution.json
